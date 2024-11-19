@@ -4,7 +4,7 @@ This project is used in the explanation of the Technical Article ['Continuous In
 
 
 
-Quick Start guide
+Quick Start guide changed by pcoelho
 ==================
 1. Fork the repository to your own GitHub® account.
 2. Configure MATLAB, GitLab and Jenkins, as outlined in the Technical Article.
